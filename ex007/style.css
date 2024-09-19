@@ -1,0 +1,15 @@
+ol.romano {
+    list-style-type: lower-roman;
+}
+
+ol.letras {
+    list-style-type: lower-alpha;
+}
+
+ul.quadrado {
+    list-style-type: square;
+}
+
+ul.circulo {
+    list-style-type: circle;
+}
